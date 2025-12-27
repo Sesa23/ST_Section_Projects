@@ -1,4 +1,4 @@
 
-# Reflection on Task 04: Tableau Dashboard Development
+# Revised Reflection on Task 04: Tableau Visualizations for Employee Data
 
-This task focused on the design and implementation of an interactive dashboard using Tableau. The core data source for this project was employee information (`Employee.csv`), which was used to create various visualizations exploring aspects such as employee demographics, departmental distribution, and performance metrics. The Tableau dashboard (`Dashboard.twb`) provides a user-friendly interface for stakeholders to explore employee data, identify trends, and gain actionable insights into the workforce.
+This task revolved around the creation and deployment of an interactive data visualization dashboard using Tableau. The primary data source for this endeavor was the `Employee.csv` file, which supplied the necessary information for generating various insightful visualizations. These visualizations were designed to illustrate aspects such as workforce demographics, departmental allocations, and performance indicators. The final Tableau dashboard (`Dashboard.twb`) offers an intuitive platform for stakeholders to delve into employee data, discern underlying trends, and derive actionable human resource insights.
