@@ -1,20 +1,20 @@
 
-# Task 02: AdventureWorks Power BI Analysis
+# Task 02: AdventureWorks Power BI Dashboard Creation
 
-## Objective
-To develop an interactive Power BI dashboard for the AdventureWorks database, providing key business insights into sales performance, customer behavior, and geographical distribution.
+## Primary Goal
+To construct an interactive and highly informative Power BI dashboard specifically for the AdventureWorks database, designed to offer critical business intelligence concerning sales performance, customer engagement patterns, and geographical market distribution.
 
-## Scope
-This task encompasses:
-*   **Adventure Works dash.pbix**: The main Power BI dashboard file.
-*   **Sql_Task.sql**: SQL queries used to extract and transform data from the AdventureWorks database.
-*   **SalesTerritory.csv**: Data related to sales territories.
-*   **SalesView.csv**: Data providing a view of sales transactions.
+## Project Domain
+This task comprehensively covers:
+*   **Adventure Works dash.pbix**: The central Power BI dashboard file.
+*   **Sql_Task.sql**: The set of SQL queries instrumental in extracting and transforming raw data from the AdventureWorks operational database.
+*   **SalesTerritory.csv**: Data records specifically detailing various sales territories.
+*   **SalesView.csv**: Data providing an aggregated perspective on sales transactions.
 
-## Key Aspects
-*   Connecting Power BI to various data sources, including SQL databases and CSV files.
-*   Data modeling: establishing relationships between different tables.
-*   Creating DAX measures and calculated columns for advanced analytics.
-*   Designing visually appealing and insightful reports and dashboards.
-*   Focus on key performance indicators (KPIs) relevant to sales, suchs as revenue, profit, and regional performance.
-*   Ensuring data accuracy and consistency across the dashboard.
+## Integral Components
+*   Seamless connection of Power BI to diverse data sources, including robust SQL databases and structured CSV files.
+*   Sophisticated data modeling: precisely defining and establishing relationships among various tables.
+*   Creation of advanced DAX measures and calculated columns for deeper analytical capabilities.
+*   Designing aesthetically pleasing and strategically insightful reports and dashboard layouts.
+*   Emphasis on key performance indicators (KPIs) directly relevant to sales, such as overall revenue, profit margins, and regional sales efficacy.
+*   Ensuring an unwavering commitment to data accuracy and maintaining consistency throughout the dashboard's presentation.

@@ -1,18 +1,18 @@
 
-# Task 04: Tableau Dashboard Development
+# Task 04: Tableau Dashboard Development for Workforce Analytics
 
-## Objective
-To design and implement an interactive and insightful dashboard using Tableau, primarily focusing on employee data analysis to reveal workforce trends and support human resource strategies.
+## Primary Objective
+To meticulously design and implement an interactive and highly revealing dashboard using Tableau, with a primary focus on comprehensive employee data analysis to uncover workforce trends and effectively support human resource strategic initiatives.
 
-## Scope
-This task involves:
-*   **Dashboard.twb**: The Tableau workbook file containing the dashboard.
-*   **Employee.csv**: The core dataset providing employee information.
+## Included Elements
+This task exclusively utilizes:
+*   **Dashboard.twb**: The definitive Tableau workbook file housing the complete dashboard.
+*   **Employee.csv**: The foundational dataset providing all essential employee information.
 
-## Key Aspects
-*   Connecting Tableau to flat files (CSV).
-*   Data preparation and cleansing within Tableau or external tools if necessary.
-*   Creating various chart types (e.g., bar charts, pie charts, scatter plots) to visualize employee data.
-*   Building interactive dashboards with filters, parameters, and actions.
-*   Analyzing employee demographics, departmental distribution, tenure, and other relevant HR metrics.
-*   Presenting actionable insights to stakeholders regarding workforce composition and performance.
+## Key Development Aspects
+*   Establishing robust connectivity between Tableau and flat data files (specifically CSV).
+*   Performing data preparation and essential cleansing either within Tableau's native environment or through external tools as required.
+*   Creation of a diverse range of chart types (e.g., precise bar charts, informative pie charts, insightful scatter plots) to visualize employee data effectively.
+*   Building interactive dashboards replete with dynamic filters, versatile parameters, and actionable controls.
+*   Conducting in-depth analysis of employee demographics, departmental distribution, tenure metrics, and other vital HR-related performance indicators.
+*   Presenting clear, actionable insights to key stakeholders regarding the overall workforce composition and individual performance contributions.
