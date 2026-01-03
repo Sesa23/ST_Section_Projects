@@ -1,4 +1,4 @@
 
-# Revised Reflection on Task 02: AdventureWorks Power BI Dashboarding
+# Reflection on Task 02: AdventureWorks Power BI Analysis
 
-This project was dedicated to constructing a dynamic Power BI dashboard for the AdventureWorks enterprise. The process encompassed integrating diverse data sources, including executing SQL queries (as seen in `Sql_Task.sql`) and importing CSV files such as `SalesTerritory.csv` and `SalesView.csv`, to forge a robust data model. The resulting Power BI dashboard is engineered to offer interactive visual reports on critical aspects like sales performance, customer metrics, and geographical distribution, thereby facilitating more informed business decisions.
+This project centered on developing a Power BI dashboard for the AdventureWorks dataset. The task involved integrating various data sources, including SQL queries (from `Sql_Task.sql`) and CSV files (`SalesTerritory.csv`, `SalesView.csv`), to build a comprehensive data model. The Power BI dashboard aims to provide interactive visualizations and reports on sales performance, customer data, and geographical territories within the AdventureWorks business scenario, enabling data-driven decision-making.

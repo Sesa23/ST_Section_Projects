@@ -1,4 +1,4 @@
 
-# Revised Reflection on Task 01: Excel Data Exploration
+# Reflection on Task 01: Excel Analysis
 
-This task primarily involved exploring and analyzing data using Excel's capabilities. We focused on two distinct datasets: human resources information and data pertaining to food analysis. The HR segment aimed to uncover key statistics and trends related to employee demographics and performance, while the food-related data was scrutinized to identify patterns in sales, inventory, or consumption. Both analyses demonstrated the utility of Excel for data manipulation, formula-driven insights, and foundational data visualization.
+This task involved comprehensive data analysis using Excel. The primary focus was on two distinct datasets: HR data and food-related sales data. The HR data analysis aimed at extracting insights into employee demographics, performance, and other relevant metrics, while the food analysis focused on understanding sales patterns, inventory, or consumption trends. Both tasks leveraged Excel's robust features for data manipulation, formula application, and basic visualization to draw meaningful conclusions.
