@@ -7,7 +7,7 @@ To meticulously analyze human resources and food-related datasets utilizing Micr
 ## Project Scope
 This assignment encompasses the examination of two distinct data sources:
 1.  **HR Data.xlsx**: Focusing on crucial human capital data, including employee demographics, performance evaluations, and other pertinent HR information.
-2.  **تحليل خاص بالمواد الغذائية.xlsx**: Containing detailed data for food analysis, potentially covering aspects like market sales, inventory management, consumption trends, or supply chain logistics.
+2.  **تحليل خاص بالموواد الغذائية.xlsx**: Containing detailed data for food analysis, potentially covering aspects like market sales, inventory management, consumption trends, or supply chain logistics.
 
 ## Fundamental Aspects
 *   Thorough data preparation and cleansing activities performed directly within Excel.
